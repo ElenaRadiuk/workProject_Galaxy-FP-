@@ -29,3 +29,4 @@ wp-content/themes/index.php
 /.htaccess
 
 .idea
+node_modules
